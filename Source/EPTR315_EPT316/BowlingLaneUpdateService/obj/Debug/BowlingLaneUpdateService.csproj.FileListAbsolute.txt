@@ -1,0 +1,5 @@
+C:\Dev\micropole.visualstudio.com\SandBox\EPSI\EPTR315_EPT316\EPTR315_EPT316\BowlingLaneUpdateService\bin\BowlingLaneUpdateService.dll
+C:\Dev\micropole.visualstudio.com\SandBox\EPSI\EPTR315_EPT316\EPTR315_EPT316\BowlingLaneUpdateService\bin\BowlingLaneUpdateService.pdb
+C:\Dev\micropole.visualstudio.com\SandBox\EPSI\EPTR315_EPT316\EPTR315_EPT316\BowlingLaneUpdateService\obj\Debug\BowlingLaneUpdateService.csprojResolveAssemblyReference.cache
+C:\Dev\micropole.visualstudio.com\SandBox\EPSI\EPTR315_EPT316\EPTR315_EPT316\BowlingLaneUpdateService\obj\Debug\BowlingLaneUpdateService.dll
+C:\Dev\micropole.visualstudio.com\SandBox\EPSI\EPTR315_EPT316\EPTR315_EPT316\BowlingLaneUpdateService\obj\Debug\BowlingLaneUpdateService.pdb
